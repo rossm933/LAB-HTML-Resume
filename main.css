@@ -1,1 +1,22 @@
-
+body {
+  background-color: darkgray;
+}
+h2 {
+  color: blueviolet;
+}
+article {
+  margin: 10px;
+  padding: 20px;
+}
+#articleOne {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 2px solid darkorange;
+}
+#articleTwo {
+  font-family: 'Courier New', Courier, monospace;
+  border: 5px dashed green;
+}
+#articleThree {
+  font-family: 'Times New Roman', Times, serif;
+  border: 8px dotted darkcyan;
+}
